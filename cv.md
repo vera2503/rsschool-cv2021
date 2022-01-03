@@ -7,3 +7,8 @@
 ### About myself: 
 ---
 Recently I wanted to change my life and started studying the front-end. I like that by writing lines of code you can immediately see the result of your workg. I hope my efforts and courses will help me gain useful knowledge and find awesome job.
+## Skills
++ HTML
++ CSS
++ Figma
++ Git
