@@ -26,3 +26,10 @@ Recently I wanted to change my life and started studying the front-end. I like t
             obj.innerHTML="Навести курсор"
             }
 ```
+## Education
++ Philological Degree from VSU
+  - Specialty: teacher of Russian and French languages.
++ Courses: 
+  - RSshool, html academy, HTML basics, CSS basics, WayUp
+## Language
++ English level -A2. I try to learn English in different ways. I use a smartphone app: Duolingo and use Google Translate a lot.
