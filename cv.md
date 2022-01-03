@@ -14,3 +14,15 @@ Recently I wanted to change my life and started studying the front-end. I like t
 + CSS
 + Figma
 + Git
+## Code example:
+```
+  function mOver(obj)
+            {
+            obj.innerHTML="Реакция на курсор"
+            }
+            
+            function mOut(obj)
+            {
+            obj.innerHTML="Навести курсор"
+            }
+```
